@@ -1,0 +1,29 @@
+{
+  "name": "rwa-ai-treasury-research",
+  "version": "1.0.0",
+  "description": "Research on Real World Assets for AI Treasury Management - Case Studies and Data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l150/rwa-ai-treasury-research"
+  },
+  "keywords": [
+    "RWA",
+    "AI treasury",
+    "DAO investment",
+    "real world assets",
+    "tokenization",
+    "AI governance",
+    "physical oracle",
+    "Bitcoin L2",
+    "agent training data",
+    "revenue share",
+    "commercial real estate",
+    "decentralized finance",
+    "institutional crypto",
+    " treasury management",
+    "alternative investments"
+  ],
+  "author": "AI Treasury Research Collective",
+  "license": "MIT"
+}

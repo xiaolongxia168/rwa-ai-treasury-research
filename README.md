@@ -49,7 +49,7 @@ This repository documents a **stable-yield, crisis-tested physical node** design
 }
 ```
 
-**Key Point:** This is **not** a 40% APR promise. It's a sustainable, real-world yield backed by physical assets and proven operations.
+**Key Point:** This is **not** a 18-22% APR promise. It's a sustainable, real-world yield backed by physical assets and proven operations.
 
 ---
 
